@@ -1,0 +1,162 @@
+.cars5 {
+    color: darkred;
+    font-size: xx-large;
+    width: auto;
+    height: auto;
+    margin-left: 600;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.line5 {
+    width: 300px;
+    height: 5px;
+    background-color: darkred;
+    margin: auto;
+    margin-top: -30px;
+    margin-left: 600px;
+}
+
+body {
+    background-image: url(../img/carsedamgeramany\ \(2\).jpg);
+    background-size: cover;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.crasGermanysedan1 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 200px;
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.crasGermanysedan1:hover {
+    background-image: url(../img/gif/f90.gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.crasGermanysedan2 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.crasGermanysedan2:hover {
+    background-image: url(../img/gif/e60.gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.crasGermanysedan3 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.crasGermanysedan3:hover {
+    background-image: url(../img/gif/e200.gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.crasGermanysedan4 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 200px;
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.crasGermanysedan4:hover {
+    background-image: url(../img/gif/flox\ \(1\).gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.crasGermanysedan5 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.crasGermanysedan5:hover {
+    background-image: url(../img/gif/pp.gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.more23 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more24 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more25 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more26 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more27 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more28 {
+    text-decoration: none;
+    color: darkred;
+}

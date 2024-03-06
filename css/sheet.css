@@ -1,0 +1,190 @@
+.cars {
+  color: darkred;
+  font-size: xx-large;
+  width: auto;
+  height: auto;
+  margin-left: 600px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.line {
+  width: 300px;
+  height: 5px;
+  background-color: darkred;
+  margin: auto;
+  margin-top: -30px;
+  margin-left: 530px;
+}
+
+body {
+  background-image: url(../img/cras.jpg);
+  background-size: cover;
+  height: 1000px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.carsjdm {
+  width: 300px;
+  height: 300px;
+  border: 3px solid rgb(113, 111, 120);
+  background: none;
+  text-align: center;
+  float: left;
+  margin-left: 45px;
+  margin-top: 50px;
+  color: darkred;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 30px;
+}
+
+.carsjdm:hover {
+  background-image: url(../img/gif/jdm.gif);
+  background-size: cover;
+  color: rgb(34, 35, 37);
+}
+
+.perent {
+  overflow: auto;
+  margin-top: 45px;
+  margin-left: 150px;
+}
+
+.crasGermany {
+  width: 300px;
+  height: 300px;
+  border: 3px solid rgb(113, 111, 120);
+  background: none;
+  text-align: center;
+  float: left;
+  margin-left: 45px;
+  margin-top: 50px;
+  color: darkred;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 30px;
+}
+
+.crasGermany:hover {
+  background-image: url(../img/gif/germany.gif);
+  background-size: cover;
+  color: azure;
+}
+
+.carskorea {
+  width: 300px;
+  height: 300px;
+  border: 3px solid rgb(113, 111, 120);
+  background: none;
+  text-align: center;
+  float: left;
+  margin-left: 45px;
+  margin-top: 50px;
+  color: darkred;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 30px;
+}
+
+.carskorea:hover {
+  background-image: url(../img/gif/south-korea-flag-10.gif);
+  background-size: cover;
+  color: rgb(247, 248, 251);
+}
+
+.carschina {
+  width: 300px;
+  height: 300px;
+  border: 3px solid rgb(113, 111, 120);
+  background: none;
+  text-align: center;
+  float: left;
+  margin-left: 45px;
+  margin-top: 50px;
+  color: darkred;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 30px;
+}
+
+.carschina:hover {
+  background-image: url(../img/gif/china.gif);
+  background-size: cover;
+  color: rgb(247, 248, 251);
+}
+
+.more1 {
+  text-decoration: none;
+  color: darkred;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more6 {
+  text-decoration: none;
+  color: darkred;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more10 {
+  text-decoration: none;
+  color: darkred;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more15 {
+  text-decoration: none;
+  color: rgb(250, 249, 249);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more22 {
+  text-decoration: none;
+  color: rgb(250, 249, 249);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more28 {
+  text-decoration: none;
+  color: rgb(250, 249, 249);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more31 {
+  text-decoration: none;
+  color: rgb(250, 249, 249);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more32 {
+  text-decoration: none;
+  color: darkred;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more33 {
+  text-decoration: none;
+  color: darkred;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more34 {
+  text-decoration: none;
+  color: darkred;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more39 {
+  text-decoration: none;
+  color: whitesmoke;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more40 {
+  text-decoration: none;
+  color: whitesmoke;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.more41 {
+  text-decoration: none;
+  color: whitesmoke;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,105 @@
+.cars2 {
+    color: darkred;
+    font-size: xx-large;
+    width: auto;
+    height: auto;
+    margin-left: 600;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.line2 {
+    width: 300px;
+    height: 5px;
+    background-color: darkred;
+    margin: auto;
+    margin-top: -30px;
+    margin-left: 610px;
+}
+
+body {
+    background-image: url(../img/jdmsedan\ \(2\).jpg);
+    background-size: cover;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.jdmsedan1 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 200px;
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.jdmsedan1:hover {
+    background-image: url(../img/gif/camry.gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.jdmsedan2 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.jdmsedan2:hover {
+    background-image: url(../img/gif/lexusLs.gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.jdmsedan3 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.jdmsedan3:hover {
+    background-image: url(../img/gif/altema.gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.more7 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more8 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more9 {
+    text-decoration: none;
+    color: darkred;
+}

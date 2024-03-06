@@ -1,0 +1,162 @@
+.cars4 {
+    color: darkred;
+    font-size: xx-large;
+    width: auto;
+    height: auto;
+    margin-left: 600;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.line4 {
+    width: 300px;
+    height: 5px;
+    background-color: darkred;
+    margin: auto;
+    margin-top: -30px;
+    margin-left: 600px;
+}
+
+body {
+    background-image: url(../img/suvgremyna.jpg);
+    background-size: cover;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.crasGermanysuv1 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 200px;
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.crasGermanysuv1:hover {
+    background-image: url(../img/gif/x6.gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.crasGermanysuv2 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.crasGermanysuv2:hover {
+    background-image: url(../img/gif/x5.gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.crasGermanysuv3 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.crasGermanysuv3:hover {
+    background-image: url(../img/gif/g\ \(2\).gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.crasGermanysuv4 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 200px;
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.crasGermanysuv4:hover {
+    background-image: url(../img/gif/gls.gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.crasGermanysuv5 {
+    width: 300px;
+    height: 300px;
+    border: 3px solid darkred;
+    background: none;
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: auto;
+    border-radius: 30px;
+}
+
+.crasGermanysuv5:hover {
+    background-image: url(../img/gif/volg.gif);
+    background-size: cover;
+    color: darkred;
+}
+
+.more16 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more17 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more18 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more19 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more20 {
+    text-decoration: none;
+    color: darkred;
+}
+
+.more21 {
+    text-decoration: none;
+    color: darkred;
+}
